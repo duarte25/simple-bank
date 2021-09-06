@@ -1,4 +1,20 @@
-<h1>iai</h1>
-h1 {
-    font-size: 2rem;
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-color: blue;
 }
+h1 {
+    color: red;
+    padding: 60px;
+} 
+</style>
+</head>
+<body>
+
+<h1>Hostinger Tutoriais</h1>
+<p>Este é o nosso parágrafo.</p>
+
+</body>
+</html>
