@@ -1,1 +1,4 @@
-<h1 height="30">iai</h1>
+<h1>iai</h1>
+h1 {
+    font-size: 2rem;
+}
