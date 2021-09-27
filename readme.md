@@ -5,4 +5,10 @@
 
 <div>
     <h2>Tecnologias</h2>
+    <p><li>Golang</li> <li>SQLITE</li></p>
+</div>
+
+<div>
+    <h2>Bibliotecas</h2>
+    <p href="github.com/dgrijalva/jwt-go">JWT-Go</p>
 </div>
