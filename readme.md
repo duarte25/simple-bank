@@ -10,5 +10,13 @@
 
 <div>
     <h2>Bibliotecas</h2>
-    <p href="github.com/dgrijalva/jwt-go">JWT-Go</p>
+    <li><a href="github.com/dgrijalva/jwt-go">JWT-Go</a></li>
+    <li><a href="github.com/google/uuid">Uuid</a></li>  
+    <li><a href="github.com/gorilla/mux">Gorilla Mux</a></li>
+    <li><a href="github.com/mattn/go-sqlite3">Go-Sqlite3</a></li>
+    <li><a href="golang.org/x/crypto">Go Cryptography</a></li>
+</div>
+
+<div>
+    <h2>:pushpin: Endpoints</h2>
 </div>
